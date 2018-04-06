@@ -5,7 +5,7 @@ name: Verbandsgemeinde Rodalben
 level: kommune
 config: |-
   {
-    "datapackage": "55e32d648305f48f26add5dcda4a363a:hhvgrod_2018",
+    "datapackage": "55e32d648305f48f26add5dcda4a363a:hh_vg_2018",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
